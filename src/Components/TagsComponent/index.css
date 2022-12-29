@@ -1,0 +1,21 @@
+.list-element {
+  margin-right: 15px;
+}
+
+.option-button {
+  background-color: transparent;
+  color: #ffffff;
+  border: 1px solid #f3aa4e;
+  height: 30px;
+  padding: 0px 10px;
+  border-radius: 15px;
+}
+
+.active-button {
+  background-color: #f3aa4e;
+  color: #ffffff;
+  border: 1px solid #f3aa4e;
+  height: 30px;
+  padding: 0px 10px;
+  border-radius: 15px;
+}
